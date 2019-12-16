@@ -1,0 +1,20 @@
+{
+    "name": "gilberg-vrn/php-mafsa",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Emelyanov",
+            "email": "gilberg.vrn@gmail.com"
+        }
+    ],
+    "description": "Pure PHP Minimal Acyclic Finite State Automata (MA-FSA)",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "mafsa\\": "src/"
+        }
+    }
+}
